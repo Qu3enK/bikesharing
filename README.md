@@ -10,14 +10,14 @@ The purpose of the Citibike Bikeshare analysis is to provide potential investors
 The results of the bikesharing analysis have been composed into a Tableau storyboard.
 [Bikesharing Storyboard Tableau Link](https://public.tableau.com/app/profile/karrm/viz/CitibikeBikeshareAnalysis/BikesharingAnalysis)
 
-**Analysis 1: Checkout Times for Users**
+**Analysis 1: [Checkout Times for Users](https://public.tableau.com/app/profile/karrm/viz/CitibikeBikeshareAnalysis/CheckoutTimesforUsers)**
 
 Checkout time for users are approximately 20 minutes or less.
 
 ![UserCheckout2](https://user-images.githubusercontent.com/112449480/209053121-041d9a66-932f-41d5-bf4d-c6327e0b0e24.png)
 
 
-**Analysis 2: Checkout Times by Gender**
+**Analysis 2: [Checkout Times by Gender](https://public.tableau.com/app/profile/karrm/viz/CitibikeBikeshareAnalysis/CheckoutTimesbyGender)**
 
 - Checkout times are approximately 25 minutes or less regardless of gender
 - Males have a higher checkout times compared to others.
@@ -25,14 +25,14 @@ Checkout time for users are approximately 20 minutes or less.
 ![CheckoutGender](https://user-images.githubusercontent.com/112449480/209053508-3abfdba1-6632-49d4-8875-a9fb92807aac.png)
 
 
-**Analysis 3: Trips By Weekday per Hour**
+**Analysis 3: [Trips By Weekday per Hour](https://public.tableau.com/app/profile/karrm/viz/CitibikeBikeshareAnalysis/TripsbyWeekdayperHour)**
 - Thursdays at 8am and 5pm-6pm are the highest trip durations times, which correlates to work hours.
 - Mondays and Tuesdays between 5pm - 6pm show high levels of trip duration.
 
 ![WeekdayHours](https://user-images.githubusercontent.com/112449480/209053883-7138b06d-d8ce-4fc9-b290-198d9d4199ff.png)
 
 
-**Analysis 4: Trips By Gender (Weekday per Hour)**
+**Analysis 4: [Trips By Gender (Weekday per Hour)](https://public.tableau.com/app/profile/karrm/viz/CitibikeBikeshareAnalysis/TripsbyGenderWeekdayperHour)**
 - Male bikers have the highest trip durations between 7am- 9am and 5pm-6pm.
 - Thursdays at 8am and 5pm-6pm are the peak trip times for Female and Male riders; which correlates to work hours.
 - Saturdays has the highest trip duration for the Unknown riders.
@@ -40,7 +40,7 @@ Checkout time for users are approximately 20 minutes or less.
 ![WeekdayHoursGender](https://user-images.githubusercontent.com/112449480/209054088-3ce9afc4-afcf-4696-8718-1b340568798b.png)
 
 
-**Analysis 5: User Trips By Gender by Weekday**
+**Analysis 5: [User Trips By Gender by Weekday](https://public.tableau.com/app/profile/karrm/viz/CitibikeBikeshareAnalysis/UserTripsbyGenderbyWeekday)**
 - Bike trip durations are higher among Subscribers vs Customers.  
 - Male subscribers account for the majority of the  user trip.
 - Thursday has the highest trip duration followed by Friday.
@@ -48,14 +48,14 @@ Checkout time for users are approximately 20 minutes or less.
 ![CustomervsSubscriber](https://user-images.githubusercontent.com/112449480/209054294-c08c8807-4953-4d5a-bc5c-baabd605a9b1.png)
 
 
-**Analysis 6: August Peak Hours**
+**Analysis 6: [August Peak Hours](https://public.tableau.com/app/profile/karrm/viz/CitibikeBikeshareAnalysis/AugustPeakHours)**
 - The Peak hours for bike rides are between 8am-9am and 5pm-6pm.
 - The Non-peak hours are from 1am-4am, which will be a good time to for bike maintence.
 
 ![AugustPeakHrs](https://user-images.githubusercontent.com/112449480/209055474-d9925d67-a848-4a99-aea6-4d56f03ca7d5.png)
 
 
-**Analysis 7: Bike Utilization**
+**Analysis 7: [Bike Utilization](https://public.tableau.com/app/profile/karrm/viz/CitibikeBikeshareAnalysis/BikeUtilization)**
 
 This chart provides an overall view of bike utilization. Bikes that have longer trip durations will require more attention than others. 
 
